@@ -10,6 +10,6 @@ Instruções da branch Backend:
 
 5. tente fazer comentários explicando o que uma função/classe esta fazendo, para que a leitura do código fique mais fácil, quanto mais explicíto melhor.
 
-6.caso tenha que instalar uma nova dependência escreva um comentário quando for importa-a no código explicando o que essa nova dependência faz, caso ela não seja conhecida pelo time.
+6.caso tenha que instalar uma nova dependência escreva um comentário quando for importa-la no código explicando o que essa nova dependência faz, caso ela não seja conhecida pelo time.
 
-7. 
+7. quando for commitar, dê um titulo significativo ao commit para que assim conseguimos saber qual foi o intuito da mudança feita
