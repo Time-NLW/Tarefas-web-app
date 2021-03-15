@@ -3,3 +3,8 @@ Instruções sobre a branch Desenvolvimento
 1. nesta branch(desenvolvimento), não iremos trabalhar nela, esta branch serve para apenas fazer o merge das branches backend e frontend e, caso tenha erros, corrigir-los e fazer o merge novamente.
 
 2. tome cuidado em qual branch você esta trabalhando, no canto inferior direito do vscode esta escrito qual é a branch que esta trabalhado no momento
+
+3. quando for começar a trabalhar, poravor dar um pull para sua maquina
+
+4.caso encontrar algum erro do projeto após nós dermos o merge, por favor abrir uma issue explicando o problema, para assim resolvermos
+
