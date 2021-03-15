@@ -1,0 +1,15 @@
+Instruções da branch Backend:
+
+1. antes de começar o trabalho, dê um pull do repositório para que assim consiga ver as mudanças feitas ao projeto.
+
+2. antes de começar a trabalhar, deve-se escrever 'npm i' no terminal, assim fará com que o npm instale as dependências localmente. Assim que acabar seu desenvolvimento pelo dia, por favor apagar a pasta node_modules, ja que esta pasta será ignorada pelo git e assim, não ira ser levada ao repositório.  
+
+3. após terminar o trabalho, por favor commitar as mudanças ao repositório e em seguida dar um push.
+
+4. essa branch deve conter apenas coisas relacionadas ao backend e todas essas coisas devem estar dentro da pasta backend e dentro da pasta src.
+
+5. tente fazer comentários explicando o que uma função/classe esta fazendo, para que a leitura do código fique mais fácil, quanto mais explicíto melhor.
+
+6.caso tenha que instalar uma nova dependência escreva um comentário quando for importa-a no código explicando o que essa nova dependência faz, caso ela não seja conhecida pelo time.
+
+7. 
