@@ -8,3 +8,4 @@ Instruções sobre a branch Desenvolvimento
 
 4.caso encontrar algum erro do projeto após nós dermos o merge, por favor abrir uma issue explicando o problema, para assim resolvermos
 
+5. não cirar pull requests
