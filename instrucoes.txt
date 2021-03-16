@@ -1,4 +1,10 @@
-Instruções sobre a branch Desenvolvimento
+Instruções gerais
+
+
+antes de começar a trabalhar no dia:
+  a.checkar as issues do repositório
+  b.checkar a pagina teams e se há alguma discussão 
+  c. avisar no discord que irá começar a trabalhar na branch(<nome da branch>)
 
 1. nesta branch(desenvolvimento), não iremos trabalhar nela, esta branch serve para apenas fazer o merge das branches backend e frontend e, caso tenha erros, corrigir-los e fazer o merge novamente.
 
@@ -9,3 +15,5 @@ Instruções sobre a branch Desenvolvimento
 4.caso encontrar algum erro do projeto após nós dermos o merge, por favor abrir uma issue explicando o problema, para assim resolvermos
 
 5. não cirar pull requests
+
+6. caso encontre um error, crie uma issue no repositório descrevendo o problema e em qual branch ela se encontra.
